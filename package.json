@@ -19,7 +19,7 @@
   },
   "author": "azer",
   "license": "BSD",
-  "dependencies": {
+  "devDependencies": {
     "prova": "^1.6.0"
   }
 }
