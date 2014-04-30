@@ -1,0 +1,25 @@
+{
+  "name": "limited-parallel-loop",
+  "version": "0.0.0",
+  "description": "Limited parallel async loop",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "loop",
+    "async",
+    "parallel",
+    "control flow",
+    "iteration"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/limited-parallel-loop.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "prova": "^1.6.0"
+  }
+}
