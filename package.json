@@ -1,6 +1,6 @@
 {
   "name": "limited-parallel-loop",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Limited parallel async loop",
   "main": "index.js",
   "scripts": {
