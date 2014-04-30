@@ -5,6 +5,7 @@ Limited parallel async loop. See also: [parallel-loop](http://github.com/azer/pa
 ```js
 var loop = require('limited-parallel-loop')
 
+// loop(length, limit, each fn, end fn)
 loop(10, 3, each, function () {
   console.log('end')
 });
